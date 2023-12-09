@@ -1,4 +1,4 @@
--- Queries with contraints (Pt. 1)
+-- Queries with constraints (Pt. 1)
 
 SELECT * 
 FROM movies
