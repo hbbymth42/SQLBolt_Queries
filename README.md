@@ -2,7 +2,7 @@
 Queries from the [SQLBolt Tutorial](https://sqlbolt.com/)
 ___
 
-- [ ] Lesson 1: SELECT queries 101
+- [x] Lesson 1: SELECT queries 101
 - [ ] Lesson 2: Queries with constraints (Pt. 1)
 - [ ] Lesson 3: Queries with constraints (Pt. 2)
 - [ ] Lesson 4: Filtering and sorting Query results
