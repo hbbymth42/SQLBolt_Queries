@@ -9,7 +9,7 @@ ___
 - [x] Lesson 5 (Review): Simple SELECT Queries
 - [x] Lesson 6: Multi-table queries with JOINs
 - [x] Lesson 7: OUTER JOINs
-- [ ] Lesson 8: A short note on NULLs
+- [x] Lesson 8: A short note on NULLs
 - [ ] Lesson 9: Queries with expressions
 - [ ] Lesson 10: Queries with aggregates (Pt. 1)
 - [ ] Lesson 11: Queries with aggregates (Pt. 2)
