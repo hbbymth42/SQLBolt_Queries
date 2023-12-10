@@ -18,5 +18,5 @@ ___
 - [x] Lesson 14: Updating rows
 - [x] Lesson 15: Delecting rows
 - [x] Lesson 16: Creating tables
-- [ ] Lesson 17: Altering tables
+- [x] Lesson 17: Altering tables
 - [ ] Lesson 18: Dropping tables
