@@ -12,7 +12,7 @@ ___
 - [x] Lesson 8: A short note on NULLs
 - [x] Lesson 9: Queries with expressions
 - [x] Lesson 10: Queries with aggregates (Pt. 1)
-- [ ] Lesson 11: Queries with aggregates (Pt. 2)
+- [x] Lesson 11: Queries with aggregates (Pt. 2)
 - [ ] Lesson 12: Order of execution of a Query
 - [ ] Lesson 13: Inserting rows
 - [ ] Lesson 14: Updating rows
