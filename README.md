@@ -10,7 +10,7 @@ ___
 - [x] Lesson 6: Multi-table queries with JOINs
 - [x] Lesson 7: OUTER JOINs
 - [x] Lesson 8: A short note on NULLs
-- [ ] Lesson 9: Queries with expressions
+- [x] Lesson 9: Queries with expressions
 - [ ] Lesson 10: Queries with aggregates (Pt. 1)
 - [ ] Lesson 11: Queries with aggregates (Pt. 2)
 - [ ] Lesson 12: Order of execution of a Query
