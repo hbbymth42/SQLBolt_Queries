@@ -16,7 +16,7 @@ ___
 - [x] Lesson 12: Order of execution of a Query
 - [x] Lesson 13: Inserting rows
 - [x] Lesson 14: Updating rows
-- [ ] Lesson 15: Delecting rows
+- [x] Lesson 15: Delecting rows
 - [ ] Lesson 16: Creating tables
 - [ ] Lesson 17: Altering tables
 - [ ] Lesson 18: Dropping tables
