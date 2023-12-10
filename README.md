@@ -19,4 +19,4 @@ ___
 - [x] Lesson 15: Delecting rows
 - [x] Lesson 16: Creating tables
 - [x] Lesson 17: Altering tables
-- [ ] Lesson 18: Dropping tables
+- [x] Lesson 18: Dropping tables
