@@ -14,7 +14,7 @@ ___
 - [x] Lesson 10: Queries with aggregates (Pt. 1)
 - [x] Lesson 11: Queries with aggregates (Pt. 2)
 - [x] Lesson 12: Order of execution of a Query
-- [ ] Lesson 13: Inserting rows
+- [x] Lesson 13: Inserting rows
 - [ ] Lesson 14: Updating rows
 - [ ] Lesson 15: Delecting rows
 - [ ] Lesson 16: Creating tables
