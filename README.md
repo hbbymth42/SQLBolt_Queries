@@ -8,7 +8,7 @@ ___
 - [x] Lesson 4: Filtering and sorting Query results
 - [x] Lesson 5 (Review): Simple SELECT Queries
 - [x] Lesson 6: Multi-table queries with JOINs
-- [ ] Lesson 7: OUTER JOINs
+- [x] Lesson 7: OUTER JOINs
 - [ ] Lesson 8: A short note on NULLs
 - [ ] Lesson 9: Queries with expressions
 - [ ] Lesson 10: Queries with aggregates (Pt. 1)
