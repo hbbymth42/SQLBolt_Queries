@@ -2,21 +2,21 @@
 Queries from the [SQLBolt Tutorial](https://sqlbolt.com/)
 ___
 
-- [x] Lesson 1: SELECT queries 101
-- [x] Lesson 2: Queries with constraints (Pt. 1)
-- [x] Lesson 3: Queries with constraints (Pt. 2)
-- [x] Lesson 4: Filtering and sorting Query results
-- [x] Lesson 5 (Review): Simple SELECT Queries
-- [x] Lesson 6: Multi-table queries with JOINs
-- [x] Lesson 7: OUTER JOINs
-- [x] Lesson 8: A short note on NULLs
-- [x] Lesson 9: Queries with expressions
-- [x] Lesson 10: Queries with aggregates (Pt. 1)
-- [x] Lesson 11: Queries with aggregates (Pt. 2)
-- [x] Lesson 12: Order of execution of a Query
-- [x] Lesson 13: Inserting rows
-- [x] Lesson 14: Updating rows
-- [x] Lesson 15: Delecting rows
-- [x] Lesson 16: Creating tables
-- [x] Lesson 17: Altering tables
-- [x] Lesson 18: Dropping tables
+- [x] [Lesson 1: SELECT queries 101](lesson_01.sql)
+- [x] [Lesson 2: Queries with constraints (Pt. 1)](lesson_02.sql)
+- [x] [Lesson 3: Queries with constraints (Pt. 2)](lesson_03.sql)
+- [x] [Lesson 4: Filtering and sorting Query results](lesson_04.sql)
+- [x] [Lesson 5 (Review): Simple SELECT Queries](lesson_05.sql)
+- [x] [Lesson 6: Multi-table queries with JOINs](lesson_06.sql)
+- [x] [Lesson 7: OUTER JOINs](lesson_07.sql)
+- [x] [Lesson 8: A short note on NULLs](lesson_08.sql)
+- [x] [Lesson 9: Queries with expressions](lesson_09.sql)
+- [x] [Lesson 10: Queries with aggregates (Pt. 1)](lesson_10.sql)
+- [x] [Lesson 11: Queries with aggregates (Pt. 2)](lesson_11.sql)
+- [x] [Lesson 12: Order of execution of a Query](lesson_12.sql)
+- [x] [Lesson 13: Inserting rows](lesson_13.sql)
+- [x] [Lesson 14: Updating rows](lesson_14.sql)
+- [x] [Lesson 15: Delecting rows](lesson_15.sql)
+- [x] [Lesson 16: Creating tables](lesson_16.sql)
+- [x] [Lesson 17: Altering tables](lesson_17.sql)
+- [x] [Lesson 18: Dropping tables](lesson_18.sql)
